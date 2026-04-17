@@ -10,3 +10,8 @@ See the [blog post](https://www.linkedin.com/pulse/ive-changed-my-mind-local-llm
 ![Audio Tinkertoy](./images/main.png)
 
 This is a GUI app built in Rust that allows you to manipulate the waveform of a sinusoid and hear the difference "live". You can also adjust the frequency, the volume, the number of samples, etc.  
+
+
+## Other Images
+### Initial Prompt via Codex w/Local Model
+![Audio Tinkertoy](./images/initial-prompt-setup.png)
